@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+Documentació classe
+**/
 public class DependenciesDuplicades {
 	
 	
@@ -44,15 +47,8 @@ public class DependenciesDuplicades {
 		}
 	}
 	
-	private static int x = 0;
 	
 	
-	private static String[] libs2 = new String[] {
-			"activation-1.1.jar",
-			"ant-1.7.1.jar",
-			"ant-launcher-1.7.1.jar",
-			"antlr-2.7.7.jar",
-			"aopalliance-1.0.jar"};
 			
 	
 	private static String[] libs = new String[] {
